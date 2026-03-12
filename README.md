@@ -5,7 +5,7 @@ This dashboard helps business stakeholders track sales performance and gain data
 
 Dataset Used
 Super Store Sales Dataset
-<a href="https://github.com/your-repository-link/SuperStore.pbix">Dataset</a>
+<a href="https://github.com/ragumass55/Super-Store-Analysis/blob/main/super%20store%20dashboard.png">Dataset</a>
 
 Questions (KPIs)
 What is the total sales revenue?
@@ -20,7 +20,7 @@ Which shipping mode is used the most?
 What is the sales and profit distribution by state?
 
 Dashboard Interaction
-<a href="https://github.com/your-repository-link/SuperStoreDashboard.png">View Dashboard</a>
+<a href="https://github.com/ragumass55/Super-Store-Analysis/blob/main/super%20store%20dashboard.png">View Dashboard</a>
 
 Process
 Imported the Super Store dataset into Power BI.
